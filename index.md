@@ -15,6 +15,6 @@ c言語とかアセンブラが少しわかる程度です。
 
 # Works
 アピールできる活動内容を書きましょう。
-- [https://github.com/ChocolateCroissantOCaml](GitHubのURL)
+- [https://github.com/ChocolateCroissantOCaml](https://github.com/ChocolateCroissantOCaml)
 
 # Contact
