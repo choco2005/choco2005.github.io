@@ -10,7 +10,7 @@ c言語とかアセンブラが少しわかる程度です。
 # N予備校のテンプレートを使う
 # Skills
 (使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。)
-- OS(Windows,Linux,mac,chromebookなど)
+- OS(Windows,mac,BSD,Ubuntu,Kubuntu,Lubuntu,archLinux,gentoo,chromebookなど)
 - Languages(c,asm)
 
 # Works
