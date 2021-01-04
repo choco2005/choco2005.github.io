@@ -15,12 +15,5 @@ c言語とかアセンブラが少しわかる程度です。
 # Works
 アピールできる活動内容を書きましょう。
 - [https://github.com/ChocolateCroissantOCaml](GitHubのURL)
-- [Qiita](QiitaのURL)
-- 作った作品
-  - [作品1](作品1のURL)
-  - [作品2](作品2のURL)
 
 # Contact
-連絡先を書きましょう。
-- [Twitter](TwitterプロフィールのURL)
-- [LinkedIn](LinkedInプロフィールのURL)
