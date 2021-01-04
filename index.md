@@ -7,7 +7,7 @@ c言語とかアセンブラが少しわかる程度です。
 - チョコクロワッサン
 - ニコ生
 
-# N予備校のテンプレートを使う
+(以下はN予備校のテンプレートを使って書いた)
 # Skills
 (使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。)
 - OS(Windows,mac,BSD,Ubuntu,Kubuntu,Lubuntu,archLinux,gentoo,chromebookなど)
