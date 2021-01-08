@@ -5,13 +5,12 @@ c言語とかアセンブラが少しわかる程度です。
 ## Profile
 ![アイコン](Screenshot_20210104_225505.png)
 - チョコクロワッサン
-- ニコ生
 
 (以下はN予備校のテンプレートを使って書いた)
 # Skills
 (使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。)
-- OS(Windows,mac,BSD,Ubuntu,Kubuntu,Lubuntu,archLinux,gentoo,chromebookなど)
-- Languages(c,asm)
+- OS(Windows,mac,Ubuntu,chromebookなど)
+- Languages(c)
 
 # Works
 アピールできる活動内容を書きましょう。
