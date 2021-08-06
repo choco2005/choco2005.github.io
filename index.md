@@ -9,11 +9,10 @@ c言語とかアセンブラが少しわかる程度です。
 (以下はN予備校のテンプレートを使って書いた)
 # Skills
 (使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。)
-- OS(Windows,mac,Ubuntu,chromebookなど)
+- OS(Windows,mac,Ubuntuなど)
 - Languages(c)
 
 # Works
 アピールできる活動内容を書きましょう。
-- [https://github.com/ChocolateCroissantOCaml](https://github.com/ChocolateCroissantOCaml)
 
 # Contact
